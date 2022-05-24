@@ -1,5 +1,34 @@
 [
   {
+    "title": "intelligent investor",
+    "authors": [
+      "Benjamin Graham"
+    ],
+    "publisher": "Harper Collins",
+    "publishedDate": "2005-05-03",
+    "description": "More than one million hardcovers sold Now available for the first time in paperback! The Classic Text Annotated to Update Graham's Timeless Wisdom for Today's Market Conditions The greatest investment advisor of the twentieth century, Benjamin Graham taught and inspired people worldwide. Graham's philosophy of \"value investing\" -- which shields investors from substantial error and teaches them to develop long-term strategies -- has made The Intelligent Investor the stock market bible ever since its original publication in 1949. Over the years, market developments have proven the wisdom of Graham's strategies. While preserving the integrity of Graham's original text, this revised edition includes updated commentary by noted financial journalist Jason Zweig, whose perspective incorporates the realities of today's market, draws parallels between Graham's examples and today's financial headlines, and gives readers a more thorough understanding of how to apply Graham's principles. Vital and indispensable, this HarperBusiness Essentials edition of The Intelligent Investor is the most important book you will ever read on how to reach your financial goals.",
+    "image": "http://books.google.com/books/content?id=QFdUX7xFpZ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 15,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 304,
+    "isbn10": "0060752610",
+    "isbn13": "9780060752613",
+    "googleBooks": {
+      "id": "QFdUX7xFpZ0C",
+      "preview": "http://books.google.com/books?id=QFdUX7xFpZ0C&printsec=frontcover&dq=intitle:Intelligent+investor+by+Benjamin+Graham&hl=&cd=3&source=gbs_api",
+      "info": "http://books.google.com/books?id=QFdUX7xFpZ0C&dq=intitle:Intelligent+investor+by+Benjamin+Graham&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/intelligent_investor.html?hl=&id=QFdUX7xFpZ0C"
+    },
+    "issueNumber": 13,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-24T06:51:15.000Z"
+  },
+  {
     "title": "Superpower: Australia's Low-Carbon Opportunity",
     "authors": [
       "ROSS. GARNAUT"
