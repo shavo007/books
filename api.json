@@ -1,5 +1,31 @@
 [
   {
+    "title": "The Simple Path to Wealth",
+    "authors": [
+      "J. Collins"
+    ],
+    "publisher": "Createspace Independent Publishing Platform",
+    "publishedDate": "2016-06-18",
+    "description": "The author shares his personal techniques, insights and experiences regarding saving money and investing, drawn from his blog posts as well as a series of letters to his teenage daughter, both dealing with money management.",
+    "image": "http://books.google.com/books/content?id=yRaMDAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "pageCount": 286,
+    "isbn10": "1533667926",
+    "isbn13": "9781533667922",
+    "googleBooks": {
+      "id": "yRaMDAEACAAJ",
+      "preview": "http://books.google.com/books?id=yRaMDAEACAAJ&dq=intitle:Simple+path+to+wealth+by+J.+L.+Collins&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=yRaMDAEACAAJ&dq=intitle:Simple+path+to+wealth+by+J.+L.+Collins&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Simple_Path_to_Wealth.html?hl=&id=yRaMDAEACAAJ"
+    },
+    "issueNumber": 9,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-24T06:36:33.000Z"
+  },
+  {
     "title": "Sapiens",
     "authors": [
       "Yuval Noah Harari"

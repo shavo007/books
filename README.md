@@ -9,8 +9,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
+### ⌛ Currently reading (2)
 
+[![Book cover of The Simple Path to Wealth](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DyRaMDAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/9 "The Simple Path to Wealth by J. Collins")
 [![Book cover of Remote Team Interactions Workbook](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DJ8q4zgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/3 "Remote Team Interactions Workbook by Matthew Skelton, Manuel Pais")
 
 ### ✅ Completed (7)
