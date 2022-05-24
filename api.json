@@ -1,5 +1,29 @@
 [
   {
+    "title": "Superpower: Australia's Low-Carbon Opportunity",
+    "authors": [
+      "ROSS. GARNAUT"
+    ],
+    "publisher": "Black Incorporated",
+    "publishedDate": "2019-08-26",
+    "description": "'The fog of Australian politics on climate change has obscured a fateful reality- Australia has the potential to be an economic superpower of the future post-carbon world.'-Ross Garnaut We have unparalleled renewable energy resources. We also have the necessary scientific skills. Australia could be the natural home for an increasing proportion of global industry. But how do we make this happen? In this crisp, compelling book, Australia's leading thinker about climate and energy policy offers a road map for progress, covering energy, transport, agriculture, the international scene and more. Rich in ideas and practical optimism, Superpower is a crucial, timely contribution to this country's future.",
+    "image": "http://books.google.com/books/content?id=zVVZxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "pageCount": 192,
+    "isbn10": "176064174X",
+    "isbn13": "9781760641740",
+    "googleBooks": {
+      "id": "zVVZxQEACAAJ",
+      "preview": "http://books.google.com/books?id=zVVZxQEACAAJ&dq=intitle:Superpower+by+Ross+Garnaut&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=zVVZxQEACAAJ&dq=intitle:Superpower+by+Ross+Garnaut&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Superpower_Australia_s_Low_Carbon_Opport.html?hl=&id=zVVZxQEACAAJ"
+    },
+    "issueNumber": 12,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-24T06:42:02.000Z"
+  },
+  {
     "title": "The DevOps Handbook",
     "authors": [
       "Gene Kim",
