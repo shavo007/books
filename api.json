@@ -1,5 +1,34 @@
 [
   {
+    "title": "White Fragility",
+    "authors": [
+      "Robin DiAngelo"
+    ],
+    "publisher": "Penguin UK",
+    "publishedDate": "2019-02-07",
+    "description": "The International Bestseller 'With clarity and compassion, DiAngelo allows us to understand racism as a practice not restricted to \"bad people.\" In doing so, she moves our national discussions forward. This is a necessary book for all people invested in societal change' Claudia Rankine Anger. Fear. Guilt. Denial. Silence. These are the ways in which ordinary white people react when it is pointed out to them that they have done or said something that has - unintentionally - caused racial offence or hurt. After, all, a racist is the worst thing a person can be, right? But these reactions only serve to silence people of colour, who cannot give honest feedback to 'liberal' white people lest they provoke a dangerous emotional reaction. Robin DiAngelo coined the term 'White Fragility' in 2011 to describe this process and is here to show us how it serves to uphold the system of white supremacy. Using knowledge and insight gained over decades of running racial awareness workshops and working on this idea as a Professor of Whiteness Studies, she shows us how we can start having more honest conversations, listen to each other better and react to feedback with grace and humility. It is not enough to simply hold abstract progressive views and condemn the obvious racists on social media - change starts with us all at a practical, granular level, and it is time for all white people to take responsibility for relinquishing their own racial supremacy. 'By turns mordant and then inspirational, an argument that powerful forces and tragic histories stack the deck fully against racial justice alongside one that we need only to be clearer, try harder, and do better' David Roediger, Los Angeles Review of Books 'The value in White Fragility lies in its methodical, irrefutable exposure of racism in thought and action, and its call for humility and vigilance' Katy Waldman, New Yorker 'A vital, necessary, and beautiful book' Michael Eric Dyson",
+    "image": "http://books.google.com/books/content?id=sdp1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 50,
+    "categories": [
+      "Social Science"
+    ],
+    "pageCount": 192,
+    "isbn10": "0141990570",
+    "isbn13": "9780141990576",
+    "googleBooks": {
+      "id": "sdp1DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=sdp1DwAAQBAJ&dq=intitle:White+Fragility+by+Robin+DiAngelo&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=sdp1DwAAQBAJ&dq=intitle:White+Fragility+by+Robin+DiAngelo&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/White_Fragility.html?hl=&id=sdp1DwAAQBAJ"
+    },
+    "issueNumber": 5,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-24T06:29:51.000Z"
+  },
+  {
     "title": "Accelerate",
     "authors": [
       "Nicole Forsgren PhD",
