@@ -1,5 +1,34 @@
 [
   {
+    "title": "A Random Walk Down Wall Street",
+    "authors": [
+      "Burton Gordon Malkiel"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "publishedDate": "2003",
+    "description": "An updated edition of the investor's classic guide includes new chapters showing individuals how to tailor their financial objectives to each stage of life and how to meet the challenges of investing following the dot-com crash.",
+    "image": "http://books.google.com/books/content?id=0uEcVn0MAu0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 12,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 414,
+    "isbn10": "0393057828",
+    "isbn13": "9780393057829",
+    "googleBooks": {
+      "id": "0uEcVn0MAu0C",
+      "preview": "http://books.google.com/books?id=0uEcVn0MAu0C&printsec=frontcover&dq=intitle:random+walk+down+wall+street+by+Burton+Gordon+Malkiel&hl=&cd=4&source=gbs_api",
+      "info": "http://books.google.com/books?id=0uEcVn0MAu0C&dq=intitle:random+walk+down+wall+street+by+Burton+Gordon+Malkiel&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/A_Random_Walk_Down_Wall_Street.html?hl=&id=0uEcVn0MAu0C"
+    },
+    "issueNumber": 10,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-24T06:38:33.000Z"
+  },
+  {
     "title": "The Simple Path to Wealth",
     "authors": [
       "J. Collins"
