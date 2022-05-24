@@ -1,5 +1,35 @@
 [
   {
+    "title": "Quit Like a Millionaire",
+    "authors": [
+      "Kristy Shen",
+      "Bryce Leung"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2019-07-09",
+    "description": "From two leaders of the FIRE (Financial Independence, Retire Early) movement, a bold, contrarian guide to retiring at any age, with a reproducible formula to financial independence A bull***t-free guide to growing your wealth, retiring early, and living life on your own terms Kristy Shen retired with a million dollars at the age of thirty-one, and she did it without hitting a home run on the stock market, starting the next Snapchat in her garage, or investing in hot real estate. Learn how to cut down on spending without decreasing your quality of life, build a million-dollar portfolio, fortify your investments to survive bear markets and black-swan events, and use the 4 percent rule and the Yield Shield--so you can quit the rat race forever. Not everyone can become an entrepreneur or a real estate baron; the rest of us need Shen's mathematically proven approach to retire decades before sixty-five.",
+    "image": "http://books.google.com/books/content?id=SeycDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 3,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 336,
+    "isbn10": "0525538690",
+    "isbn13": "9780525538691",
+    "googleBooks": {
+      "id": "SeycDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=SeycDwAAQBAJ&printsec=frontcover&dq=intitle:Quit+Like+a+Millionaire+by+Bryce+Leung,+Kristy+Shen&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=SeycDwAAQBAJ&dq=intitle:Quit+Like+a+Millionaire+by+Bryce+Leung,+Kristy+Shen&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Quit_Like_a_Millionaire.html?hl=&id=SeycDwAAQBAJ"
+    },
+    "issueNumber": 14,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-24T06:52:06.000Z"
+  },
+  {
     "title": "intelligent investor",
     "authors": [
       "Benjamin Graham"
