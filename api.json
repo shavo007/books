@@ -1,5 +1,33 @@
 [
   {
+    "title": "Remote Team Interactions Workbook",
+    "authors": [
+      "Matthew Skelton",
+      "Manuel Pais"
+    ],
+    "publisher": "It Revolution Press",
+    "publishedDate": "2022-04-26",
+    "description": "In this workbook, the authors of the widely successful Team Topologies provide a road-map for organizing effective and happy team-first remote workplaces.",
+    "image": "http://books.google.com/books/content?id=J8q4zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 80,
+    "isbn10": "1950508617",
+    "isbn13": "9781950508617",
+    "googleBooks": {
+      "id": "J8q4zgEACAAJ",
+      "preview": "http://books.google.com/books?id=J8q4zgEACAAJ&dq=intitle:Remote+Team+Interactions+Workbook+by+Matthew+Skelton+and+Manuel+Pais&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=J8q4zgEACAAJ&dq=intitle:Remote+Team+Interactions+Workbook+by+Matthew+Skelton+and+Manuel+Pais&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Remote_Team_Interactions_Workbook.html?hl=&id=J8q4zgEACAAJ"
+    },
+    "issueNumber": 3,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-24T06:27:44.000Z"
+  },
+  {
     "title": "Team Topologies",
     "authors": [
       "Matthew Skelton",
