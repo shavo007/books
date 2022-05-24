@@ -26,8 +26,11 @@
     },
     "issueNumber": 14,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-24T06:52:06.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-24T06:52:06.000Z",
+    "completedAt": "2022-05-24T06:53:43.000Z",
+    "timeToComplete": 97000,
+    "timeToCompleteFormatted": "1 minute"
   },
   {
     "title": "intelligent investor",
@@ -55,8 +58,11 @@
     },
     "issueNumber": 13,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-24T06:51:15.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-24T06:51:15.000Z",
+    "completedAt": "2022-05-24T06:53:43.000Z",
+    "timeToComplete": 148000,
+    "timeToCompleteFormatted": "2 minutes"
   },
   {
     "title": "Superpower: Australia's Low-Carbon Opportunity",

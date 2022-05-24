@@ -9,14 +9,14 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (3)
+### ⌛ Currently reading (1)
 
-[![Book cover of Quit Like a Millionaire](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DSeycDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/14 "Quit Like a Millionaire by Kristy Shen, Bryce Leung")
-[![Book cover of intelligent investor](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DQFdUX7xFpZ0C%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/13 "intelligent investor by Benjamin Graham")
 [![Book cover of Remote Team Interactions Workbook](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DJ8q4zgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/3 "Remote Team Interactions Workbook by Matthew Skelton, Manuel Pais")
 
-### ✅ Completed (11)
+### ✅ Completed (13)
 
+[![Book cover of Quit Like a Millionaire](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DSeycDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/14 "Quit Like a Millionaire by Kristy Shen, Bryce Leung completed in 1 minute on May 2022")
+[![Book cover of intelligent investor](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DQFdUX7xFpZ0C%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/13 "intelligent investor by Benjamin Graham completed in 2 minutes on May 2022")
 [![Book cover of Superpower: Australia's Low-Carbon Opportunity](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DzVVZxQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/12 "Superpower: Australia's Low-Carbon Opportunity by ROSS. GARNAUT completed in 1 minute on May 2022")
 [![Book cover of The DevOps Handbook](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dui8hDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/11 "The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, John Willis completed in 4 minutes on May 2022")
 [![Book cover of A Random Walk Down Wall Street](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D0uEcVn0MAu0C%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/10 "A Random Walk Down Wall Street by Burton Gordon Malkiel completed in 5 minutes on May 2022")
