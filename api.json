@@ -1,5 +1,34 @@
 [
   {
+    "title": "The First 90 Days, Updated and Expanded",
+    "authors": [
+      "Michael Watkins"
+    ],
+    "publisher": "Harvard Business Review Press",
+    "publishedDate": "2013-05-14",
+    "description": "In this updated 10th anniversary edition, an internationally known leadership transition expert, drawing on real-world examples and groundbreaking research on leadership, emphasizes the importance of successful performance during the first 90 days in a new position. 100,000 first printing.",
+    "image": "http://books.google.com/books/content?id=RZjBAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 10,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 304,
+    "isbn10": "1422188612",
+    "isbn13": "9781422188613",
+    "googleBooks": {
+      "id": "RZjBAgAAQBAJ",
+      "preview": "http://books.google.com/books?id=RZjBAgAAQBAJ&printsec=frontcover&dq=intitle:First+90+days+by+michael+d.+watkins&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=RZjBAgAAQBAJ&dq=intitle:First+90+days+by+michael+d.+watkins&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_First_90_Days_Updated_and_Expanded.html?hl=&id=RZjBAgAAQBAJ"
+    },
+    "issueNumber": 17,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-06-20T11:15:45.000Z"
+  },
+  {
     "title": "An Elegant Puzzle",
     "authors": [
       "Will Larson"
