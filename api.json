@@ -396,8 +396,11 @@
     },
     "issueNumber": 3,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-05-24T06:27:44.000Z"
+    "state": "completed",
+    "startedAt": "2022-05-24T06:27:44.000Z",
+    "completedAt": "2022-06-20T11:14:50.000Z",
+    "timeToComplete": 2350026000,
+    "timeToCompleteFormatted": "3 weeks"
   },
   {
     "title": "Team Topologies",

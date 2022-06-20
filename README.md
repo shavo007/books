@@ -9,12 +9,11 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (2)
+### ⌛ Currently reading (1)
 
 [![Book cover of An Elegant Puzzle](<https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DAn%2520Elegant%2520Puzzle%2520by%2520function%2520join()%2520%257B%2520%255Bnative%2520code%255D%2520%257D%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain>)](https://github.com/shavo007/books/issues/16 "An Elegant Puzzle by Will Larson")
-[![Book cover of Remote Team Interactions Workbook](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DJ8q4zgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/3 "Remote Team Interactions Workbook by Matthew Skelton, Manuel Pais")
 
-### ✅ Completed (13)
+### ✅ Completed (14)
 
 [![Book cover of Quit Like a Millionaire](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DSeycDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/14 "Quit Like a Millionaire by Kristy Shen, Bryce Leung completed in 1 minute on May 2022")
 [![Book cover of intelligent investor](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DQFdUX7xFpZ0C%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/13 "intelligent investor by Benjamin Graham completed in 2 minutes on May 2022")
@@ -27,6 +26,7 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of Atomic Habits](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DXfFvDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/6 "Atomic Habits by James Clear completed in 2 minutes on May 2022")
 [![Book cover of White Fragility](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dsdp1DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/5 "White Fragility by Robin DiAngelo completed in 3 minutes on May 2022")
 [![Book cover of Accelerate](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DKax-DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/4 "Accelerate by Nicole Forsgren PhD, Jez Humble, Gene Kim completed in 4 minutes on May 2022")
+[![Book cover of Remote Team Interactions Workbook](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DJ8q4zgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/3 "Remote Team Interactions Workbook by Matthew Skelton, Manuel Pais completed in 3 weeks on June 2022")
 [![Book cover of Team Topologies](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DoFdRuAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/2 "Team Topologies by Matthew Skelton, Manuel Pais completed in 6 minutes on May 2022")
 [![Book cover of The Manager's Path](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFaNaDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/1 "The Manager's Path by Camille Fournier completed in 23 minutes on May 2022")
 
