@@ -26,7 +26,7 @@
     },
     "issueNumber": 18,
     "progressPercent": 0,
-    "state": "reading",
+    "state": "want-to-read",
     "startedAt": "2022-09-13T08:17:30.000Z"
   },
   {
@@ -77,8 +77,11 @@
     },
     "issueNumber": 16,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-06-20T11:12:29.000Z"
+    "state": "completed",
+    "startedAt": "2022-06-20T11:12:29.000Z",
+    "completedAt": "2022-10-25T00:56:18.000Z",
+    "timeToComplete": 10935829000,
+    "timeToCompleteFormatted": "4 months"
   },
   {
     "title": "Quit Like a Millionaire",
