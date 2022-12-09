@@ -1,5 +1,32 @@
 [
   {
+    "title": "The Big Switch",
+    "authors": [
+      "Saul Griffith"
+    ],
+    "publisher": "Black Inc.",
+    "publishedDate": "2022-02-14",
+    "description": "An optimistic – but realistic and feasible – action plan for fighting climate change while creating new jobs and a healthier environment: electrify everything. Climate change is a planetary emergency. We have to do something now – but what? Australian visionary Saul Griffith has a plan. In The Big Switch, Griffith lays out a detailed blueprint – optimistic but feasible – for fighting climate change while creating millions of new jobs and a healthier environment. Griffith explains exactly what it would take to transform our infrastructure, update our grid, and adapt our households. Billionaires may contemplate escaping our worn-out planet on a private rocket ship to Mars, but the rest of us, Griffith says, will stay and fight for the future. ‘I’m a scientist, engineer, inventor and father who wants to leave my kids a better world. The data convinces me that it is still rational to have hope.’—Saul Griffith",
+    "image": "http://books.google.com/books/content?id=YBpZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Technology & Engineering"
+    ],
+    "pageCount": 208,
+    "isbn10": "1743822375",
+    "isbn13": "9781743822371",
+    "googleBooks": {
+      "id": "YBpZEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=YBpZEAAAQBAJ&printsec=frontcover&dq=intitle:The+big+switch+by+Saul+Griffith&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=YBpZEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=YBpZEAAAQBAJ"
+    },
+    "issueNumber": 20,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-12-09T07:50:18.000Z"
+  },
+  {
     "title": "Thinking in Systems",
     "authors": [
       "Donella H. Meadows",
@@ -26,7 +53,7 @@
     },
     "issueNumber": 18,
     "progressPercent": 0,
-    "state": "want-to-read",
+    "state": "reading",
     "startedAt": "2022-09-13T08:17:30.000Z"
   },
   {
@@ -55,7 +82,7 @@
     },
     "issueNumber": 17,
     "progressPercent": 0,
-    "state": "reading",
+    "state": "want-to-read",
     "startedAt": "2022-06-20T11:15:45.000Z"
   },
   {

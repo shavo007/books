@@ -9,9 +9,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
+### ⌛ Currently reading (2)
 
-[![Book cover of The First 90 Days, Updated and Expanded](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DRZjBAgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/17 "The First 90 Days, Updated and Expanded by Michael Watkins")
+[![Book cover of The Big Switch](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DYBpZEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/20 "The Big Switch by Saul Griffith")
+[![Book cover of Thinking in Systems](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DCpbLAgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/18 "Thinking in Systems by Donella H. Meadows, Diana Wright")
 
 ### ✅ Completed (15)
 
@@ -33,7 +34,7 @@ This repository is used to track the books I'm reading these days, powered by [B
 
 ### ⏭️ Want to Read (1)
 
-[![Book cover of Thinking in Systems](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DCpbLAgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/18 "Thinking in Systems by Donella H. Meadows, Diana Wright completed in undefined on Invalid Date")
+[![Book cover of The First 90 Days, Updated and Expanded](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DRZjBAgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/17 "The First 90 Days, Updated and Expanded by Michael Watkins completed in undefined on Invalid Date")
 
 <!--end:bookshelf-action-->
 
