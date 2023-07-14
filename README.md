@@ -9,8 +9,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
+### ⌛ Currently reading (2)
 
+[![Book cover of Engineering Management for the Rest of Us](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DsK9RzwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/26 "Engineering Management for the Rest of Us by Sarah Drasner")
 [![Book cover of Thinking in Systems](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DCpbLAgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/18 "Thinking in Systems by Donella H. Meadows, Diana Wright")
 
 ### ✅ Completed (16)
