@@ -23,8 +23,11 @@
     },
     "issueNumber": 20,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-12-09T07:50:18.000Z"
+    "state": "completed",
+    "startedAt": "2022-12-09T07:50:18.000Z",
+    "completedAt": "2023-07-14T01:24:08.000Z",
+    "timeToComplete": 18725630000,
+    "timeToCompleteFormatted": "7 months"
   },
   {
     "title": "Thinking in Systems",
