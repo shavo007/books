@@ -9,13 +9,13 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (2)
+### ⌛ Currently reading (1)
 
-[![Book cover of Engineering Management for the Rest of Us](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DsK9RzwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/26 "Engineering Management for the Rest of Us by Sarah Drasner")
 [![Book cover of Thinking in Systems](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DCpbLAgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/18 "Thinking in Systems by Donella H. Meadows, Diana Wright")
 
-### ✅ Completed (16)
+### ✅ Completed (17)
 
+[![Book cover of Engineering Management for the Rest of Us](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DsK9RzwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/26 "Engineering Management for the Rest of Us by Sarah Drasner completed in 8 months on April 2024")
 [![Book cover of The Big Switch](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DYBpZEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/20 "The Big Switch by Saul Griffith completed in 7 months on July 2023")
 [![Book cover of An Elegant Puzzle](<https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DAn%2520Elegant%2520Puzzle%2520by%2520function%2520join()%2520%257B%2520%255Bnative%2520code%255D%2520%257D%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain>)](https://github.com/shavo007/books/issues/16 "An Elegant Puzzle by Will Larson completed in 4 months on October 2022")
 [![Book cover of Quit Like a Millionaire](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DSeycDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/shavo007/books/issues/14 "Quit Like a Millionaire by Kristy Shen, Bryce Leung completed in 1 minute on May 2022")

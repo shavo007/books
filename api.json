@@ -18,8 +18,11 @@
     },
     "issueNumber": 26,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-07-14T01:26:44.000Z"
+    "state": "completed",
+    "startedAt": "2023-07-14T01:26:44.000Z",
+    "completedAt": "2024-04-12T06:58:10.000Z",
+    "timeToComplete": 23607086000,
+    "timeToCompleteFormatted": "8 months"
   },
   {
     "title": "The Big Switch",
