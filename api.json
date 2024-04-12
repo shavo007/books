@@ -1,5 +1,29 @@
 [
   {
+    "title": "System Design Interview - An Insider's Guide, Second Edition",
+    "authors": [
+      "Alex Xu"
+    ],
+    "publishedDate": "2020-06-12",
+    "description": "The system design interview is considered to be the most complex and most difficult technical job interview by many. Those questions are intimidating, but don't worry. It's just that nobody has taken the time to prepare you systematically. We take the time. We go slow. We draw lots of diagrams and use lots of examples. You'll learn step-by-step, one question at a time. Don't miss out. What's inside? - An insider's take on what interviewers really look for and why. - A 4-step framework for solving any system design interview question. - 16 real system design interview questions with detailed solutions. - 188 diagrams to visually explain how different systems work. Table Of Contents Chapter 1: Scale From Zero To Millions Of Users Chapter 2: Back-of-the-envelope Estimation Chapter 3: A Framework For System Design Interviews Chapter 4: Design A Rate Limiter Chapter 5: Design Consistent Hashing Chapter 6: Design A Key-value Store Chapter 7: Design A Unique Id Generator In Distributed Systems Chapter 8: Design A Url Shortener Chapter 9: Design A Web Crawler Chapter 10: Design A Notification System Chapter 11: Design A News Feed System Chapter 12: Design A Chat System Chapter 13: Design A Search Autocomplete System Chapter 14: Design Youtube Chapter 15: Design Google Drive Chapter 16: The Learning Continues",
+    "image": "http://books.google.com/books/content?id=TZWmzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "pageCount": 276,
+    "isbn13": "9798664653403",
+    "googleBooks": {
+      "id": "TZWmzQEACAAJ",
+      "preview": "http://books.google.com/books?id=TZWmzQEACAAJ&dq=intitle:System+design+interview+by+Alex+Xu&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=TZWmzQEACAAJ&dq=intitle:System+design+interview+by+Alex+Xu&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/System_Design_Interview_An_Insider_s_Gui.html?hl=&id=TZWmzQEACAAJ"
+    },
+    "issueNumber": 32,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-04-12T07:04:33.000Z"
+  },
+  {
     "title": "Outlive",
     "authors": [
       "Peter Attia, MD"
