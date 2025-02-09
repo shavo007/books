@@ -1,5 +1,32 @@
 [
   {
+    "title": "The Ministry for the Future",
+    "authors": [
+      "Kim Stanley Robinson"
+    ],
+    "publisher": "Orbit",
+    "publishedDate": "2020-10-06",
+    "description": "ONE OF BARACK OBAMA’S FAVORITE BOOKS OF THE YEAR “The best science-fiction nonfiction novel I’ve ever read.” —Jonathan Lethem \"If I could get policymakers, and citizens, everywhere to read just one book this year, it would be Kim Stanley Robinson’s The Ministry for the Future.\" —Ezra Klein (Vox) The Ministry for the Future is a masterpiece of the imagination, using fictional eyewitness accounts to tell the story of how climate change will affect us all. Its setting is not a desolate, postapocalyptic world, but a future that is almost upon us. Chosen by Barack Obama as one of his favorite books of the year, this extraordinary novel from visionary science fiction writer Kim Stanley Robinson will change the way you think about the climate crisis. \"One hopes that this book is read widely—that Robinson’s audience, already large, grows by an order of magnitude. Because the point of his books is to fire the imagination.\"―New York Review of Books \"If there’s any book that hit me hard this year, it was Kim Stanley Robinson’s The Ministry for the Future, a sweeping epic about climate change and humanity’s efforts to try and turn the tide before it’s too late.\" ―Polygon (Best of the Year) \"Masterly.\" —New Yorker \"[The Ministry for the Future] struck like a mallet hitting a gong, reverberating through the year ... it’s terrifying, unrelenting, but ultimately hopeful. Robinson is the SF writer of my lifetime, and this stands as some of his best work. It’s my book of the year.\" —Locus \"Science-fiction visionary Kim Stanley Robinson makes the case for quantitative easing our way out of planetary doom.\" ―Bloomberg Green",
+    "image": "http://books.google.com/books/content?id=K_DNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 579,
+    "isbn10": "0316300160",
+    "isbn13": "9780316300162",
+    "googleBooks": {
+      "id": "K_DNDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=K_DNDwAAQBAJ&printsec=frontcover&dq=intitle:Ministry+for+the+future+by+Kim+Stanley+Robinson&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=K_DNDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=K_DNDwAAQBAJ"
+    },
+    "issueNumber": 36,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-02-09T23:08:24.000Z"
+  },
+  {
     "title": "System Design Interview - An Insider's Guide, Second Edition",
     "authors": [
       "Alex Xu"
